@@ -1,3 +1,3 @@
 # CoronaVirusTracker
 
-login/registration features to be added
+login/registration features to be added in this project
