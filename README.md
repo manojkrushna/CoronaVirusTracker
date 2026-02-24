@@ -1,3 +1,3 @@
 # CoronaVirusTracker
 
-login features 
+login features logout
